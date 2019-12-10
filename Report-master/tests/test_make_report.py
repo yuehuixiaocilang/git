@@ -9,7 +9,7 @@
 import os
 import unittest
 from selenium import webdriver
-from lxml import etree
+# from lxml import etree
 from BeautifulReport import BeautifulReport
 
 
